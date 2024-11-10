@@ -37,7 +37,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# compressed and old files
 *.gz
 *.old
-server-reference-manifest.json
 
+# sensitive config
+server-reference-manifest
